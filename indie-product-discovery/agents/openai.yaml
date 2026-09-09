@@ -1,0 +1,4 @@
+interface:
+  display_name: "工具产品机会评估"
+  short_description: "为独立开发者梳理目标人群、痛点、竞品、核心功能、社媒获客与变现方向"
+  default_prompt: "请使用 $indie-product-discovery 分析我的工具产品想法，输出有依据的中文产品决策文档。"

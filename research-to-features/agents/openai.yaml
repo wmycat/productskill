@@ -1,0 +1,4 @@
+interface:
+  display_name: "调研转功能清单"
+  short_description: "读取市场调研文档，生成包含功能点、功能说明、优先级和UI建议的四列表格"
+  default_prompt: "请使用 $research-to-features，根据我提供的市场调研文档生成四列功能清单。"

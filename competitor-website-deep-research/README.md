@@ -12,7 +12,7 @@ $competitor-website-deep-research
 
 可以只提供链接。需要指定市场、地区、产品形态或重点问题时直接补充；未说明的内容会根据网站信息提出假设。
 
-报告默认保存到 `reports/竞品简称-竞品深度调研-YYYY-MM-DD.md`。
+报告默认生成 PDF，保存到 `output/pdf/竞品简称-竞品深度调研-YYYY-MM-DD.pdf`。也可以指定 Markdown、Word、聊天表格或其他格式。
 
 ## 研究范围
 

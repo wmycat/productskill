@@ -1,0 +1,4 @@
+interface:
+  display_name: "竞品网站深度调研"
+  short_description: "深度分析竞品网站的人群、痛点、功能、付费点与产品机会"
+  default_prompt: "请使用 $competitor-website-deep-research 深度调研这个竞品网站，并输出产品决策报告。"
